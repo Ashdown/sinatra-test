@@ -2,7 +2,7 @@
 require "rubygems"
 require "bundler/setup"
 require "sinatra"
-require "haml"
+require "slim"
 require "./app.rb"
 
 set :run, false
