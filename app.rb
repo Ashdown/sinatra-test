@@ -1,6 +1,6 @@
 set :haml, :format => :html5
 
-helpers Sample
+helpers SampleHelper, DateHelper
 
 get "/" do
   slim :index

@@ -1,6 +1,10 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    faraday (0.9.1)
+      multipart-post (>= 1.2, < 3)
+    json (1.8.3)
+    multipart-post (2.0.0)
     rack (1.6.4)
     rack-protection (1.5.3)
       rack
@@ -20,6 +24,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  faraday
+  json
   sinatra
   slim
   sprockets
