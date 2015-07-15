@@ -1,5 +1,6 @@
-#app.rb
 set :haml, :format => :html5
+
+helpers Sample
 
 get "/" do
   slim :index
