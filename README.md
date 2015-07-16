@@ -37,15 +37,15 @@ Run locally
 
 For more see
 
-    * [Getting started with Ruby on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby)
+[Getting started with Ruby on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby)
 
 Database Integration
 --------------------
 
 For more see
 
-    * [Making a simple database driven website with sinatra and heroku](https://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-website-with-sinatra-and-heroku/)
-    * [Using posttgres on Heroku](https://devcenter.heroku.com/articles/heroku-postgresql#provisioning-the-add-on)
+[Making a simple database driven website with sinatra and heroku](https://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-website-with-sinatra-and-heroku/)  
+[Using posttgres on Heroku](https://devcenter.heroku.com/articles/heroku-postgresql#provisioning-the-add-on)
 
 
 
