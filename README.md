@@ -1,12 +1,13 @@
 Sinatra Test App
 ================
 
-Example Ruby application with the following features
+Simple Ruby application with the following features
 
     * Sinatra
     * Hosted on heroku
     * Slim templates
     * Sprockets and asset pipeline
+    * SCSS
     * Sample client
     * Sample database integration (postgres)
     
@@ -45,7 +46,7 @@ Database Integration
 For more see
 
 [Making a simple database driven website with sinatra and heroku](https://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-website-with-sinatra-and-heroku/)  
-[Using posttgres on Heroku](https://devcenter.heroku.com/articles/heroku-postgresql#provisioning-the-add-on)
+[Using postgres on Heroku](https://devcenter.heroku.com/articles/heroku-postgresql#provisioning-the-add-on)
 
 
 
