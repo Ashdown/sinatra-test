@@ -1,3 +1,6 @@
 (function(){
-    console.log('test');
+
+    'use strict';
+
+    window.console.log('test');
 })();
