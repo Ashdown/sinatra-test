@@ -9,3 +9,4 @@ gem "json"
 gem 'activerecord'
 gem 'sinatra-activerecord'
 gem 'pg'
+gem 'rspec'
