@@ -9,7 +9,7 @@ load 'jasmine/tasks/jasmine.rake'
 desc 'js validation'
 Jshintrb::JshintTask.new :jshint do |task|
   task.pattern = 'assets/javascripts/*.js'
-  task.options = :defaults
+  task.options = Jshintrb::Lint::DEFAULTS.merge({:predef => ['jQuery']})
 end
 
 RSpec::Core::RakeTask.new(:spec)
