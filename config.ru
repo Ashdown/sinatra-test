@@ -1,10 +1,6 @@
 require 'rubygems'
 require 'bundler/setup'
-require 'sinatra'
-require 'slim'
 require 'sprockets'
-Dir[File.join(File.dirname(__FILE__), './lib/clients', '*.rb')].each {|file| require file }
-Dir[File.join(File.dirname(__FILE__), './lib/helpers', '*.rb')].each {|file| require file }
 require './app.rb'
 
 set :run, false
