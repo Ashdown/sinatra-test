@@ -10,7 +10,7 @@ Example Ruby application with the following features
     * Sample client
     * Sample database integration (postgres)
     
-A [https://guarded-caverns-3516.herokuapp.com/](Sinatra Test App on Heroku)    
+[Sinatra Test App on Heroku](https://guarded-caverns-3516.herokuapp.com/) 
     
 Helpful Commands
 ----------------
@@ -37,15 +37,15 @@ Run locally
 
 For more see
 
-    * A[https://devcenter.heroku.com/articles/getting-started-with-ruby](Getting started with Ruby on Heroku)
+    * [Getting started with Ruby on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby)
 
 Database Integration
 --------------------
 
 For more see
 
-    * A[https://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-website-with-sinatra-and-heroku/](Making a simple database driven website with sinatra and heroku)
-    * https://devcenter.heroku.com/articles/heroku-postgresql#provisioning-the-add-on(Using posttgres on Heroku)
+    * [Making a simple database driven website with sinatra and heroku](https://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-website-with-sinatra-and-heroku/)
+    * [Using posttgres on Heroku](https://devcenter.heroku.com/articles/heroku-postgresql#provisioning-the-add-on)
 
 
 
