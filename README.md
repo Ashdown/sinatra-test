@@ -8,6 +8,7 @@ Simple Ruby application with the following features
     * Slim templates
     * Sprockets and asset pipeline
     * SCSS
+    * rspec test
     * Sample client
     * Sample database integration (postgres)
     
