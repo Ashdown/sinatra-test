@@ -6,7 +6,7 @@ require './app'
 require 'test/unit'
 require 'rack/test'
 
-class SampleTest < Test::Unit::TestCase
+class SampleTestRackTest < Test::Unit::TestCase
   include Rack::Test::Methods
 
   def app

@@ -10,6 +10,7 @@ Simple Ruby application with the following features
     * SCSS
     * Jasmine testing
     * rspec testing
+    * Feature testing
     * Sample client
     * Sample database integration (postgres)
     
