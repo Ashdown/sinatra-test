@@ -16,4 +16,5 @@ describe 'Sinatra Test Application' do
     expect(last_response).to be_ok
     expect(last_response.body.include?('Parnell')).to be true
   end
+
 end

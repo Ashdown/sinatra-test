@@ -14,6 +14,10 @@ get '/' do
   slim :index
 end
 
+get '/second' do
+  slim :second
+end
+
 get '/sample' do
   slim :sample
 end
