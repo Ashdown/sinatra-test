@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'bundler/setup'
 require 'sprockets'
-require './app.rb'
+require './app'
 
 set :run, false
 set :raise_errors, true
